@@ -1,9 +1,6 @@
-import discord
 from discord.ext import commands
 import random
 import asyncio
-import json
-import os
 
 
 class Fun(commands.Cog):

@@ -9,15 +9,7 @@ from itertools import cycle
 
 import os
 
-import json
-
-import psutil
-
 import random
-
-import asyncio
-
-import datetime
 
 import jokeapi
 
