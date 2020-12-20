@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-import os
 import sys
 import traceback
 import math
